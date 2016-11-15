@@ -1,0 +1,23 @@
+{
+  "name": "rhtf",
+  "version": "0.0.1",
+  "description": "Robin and Friar Tuck - a noisy bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robdrimmie/rhtf.git"
+  },
+  "author": "Rob Drimmie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robdrimmie/rhtf/issues"
+  },
+  "homepage": "https://github.com/robdrimmie/rhtf#readme",
+  "dependencies": {
+    "botkit": "^0.4.1",
+    "nconf": "^0.8.4"
+  }
+}
