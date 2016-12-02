@@ -1,0 +1,8 @@
+{
+    "slack": {
+        "tokens": [
+            "example-token-one-use-fake-ones",
+            "example-token-two-use-fake-ones"
+        ]
+    }
+}
